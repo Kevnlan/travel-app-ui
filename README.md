@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This project shows a demo ui of a travel app. 
+These are some of the screenshots from the app
+
+![alt text](https://github.com/kevnlan/flutter_travel_ui/blob/[branch]/image.jpg?raw=true)
