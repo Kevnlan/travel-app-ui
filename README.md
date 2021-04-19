@@ -16,7 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 This project shows a demo ui of a travel app. 
+
 These are some of the screenshots from the app
 
 ![Screenshot](https://github.com/Kevnlan/travel-app-ui/tree/master/assets/images/1.jpg?raw=true)
+
 ![Screenshot](https://github.com/Kevnlan/travel-app-ui/tree/master/assets/images/3.jpg?raw=true)
